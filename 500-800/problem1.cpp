@@ -1,4 +1,5 @@
- #include<bits/stdc++.h>
+//codechef link:https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AVGPROBLEM
+#include<bits/stdc++.h>
 using namespace std;
 int main()
 {int t;
