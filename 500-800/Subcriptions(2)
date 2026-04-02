@@ -1,0 +1,29 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    int t;
+    cin>>t;
+    while(t--)
+    {
+     double a,b;
+     double c;
+     int d;
+     cin>>a>>b;
+     if(a==1)
+     {
+        cout<<b<<endl;
+     }
+     else
+     {   c=a/6;
+        d=ceil(c);
+        cout<<d*b<<endl;
+        
+     }
+  
+    
+
+
+    }
+    return 0;
+}
